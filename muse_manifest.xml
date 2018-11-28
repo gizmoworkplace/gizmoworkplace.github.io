@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gizmoworkplace.ml" resolutions="1x" timestamp="1543417890696">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="168130915" ref="contact:payment-info:index:service"/>
+    <file name="contact.css" crc="4276661319" ref="contact"/>
+    <file name="payment-info.css" crc="3810980447" ref="payment-info"/>
+    <file name="index.css" crc="486311106" ref="index"/>
+    <file name="service.css" crc="4129571663" ref="service"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:service:contact:payment-info"/>
+    <file name="museutils.js" crc="340535759" ref="index:service:contact:payment-info"/>
+    <file name="whatinput.js" crc="86476730" ref="index:service:contact:payment-info"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:service:contact:payment-info"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:service:contact:payment-info"/>
+    <file name="require.js" crc="7928878" ref="index:service:contact:payment-info"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u669.php" crc="4164005227" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-83805x82.svg" crc="125187913" seo="true" ref="payment-info">
+      <caption webpage="payment-info" alt=""/>
+    </file>
+    <file name="pasted svg 83805x82_poster_.png" crc="3993914961" ref="payment-info"/>
+    <file name="pasted-svg-65277x67.svg" crc="234795265" seo="true" ref="payment-info">
+      <caption webpage="payment-info" alt=""/>
+    </file>
+    <file name="pasted svg 65277x67_poster_.png" crc="4185826655" ref="payment-info"/>
+  </folder>
+  <file name="index.html" crc="71007771" seo="true" mt="1543416712958" redirect="true"/>
+  <file name="service.html" crc="4130609813" seo="true" mt="1543416712958" redirect="true"/>
+  <file name="contact.html" crc="510570571" seo="true" mt="1543417274346" redirect="true"/>
+  <file name="payment-info.html" crc="3796742567" seo="true" mt="1543416712958" redirect="true"/>
+</manifest>
