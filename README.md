@@ -1,1 +1,1 @@
-# gizmoworkplace.github.io
+# gizmostudio.github.io
